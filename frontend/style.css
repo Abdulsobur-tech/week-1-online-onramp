@@ -1,0 +1,150 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: whitesmoke;
+}
+
+.container-box{
+    background-color: white;
+    box-shadow: 20ch;
+    border-bottom: 5px;
+}
+
+.container{
+   margin-left: 70px;
+   
+}
+
+nav{
+    display: flex;
+    
+}
+
+#black{
+    width: 30px;
+    height: 30px;
+    float: right;
+    margin-right: 90px;
+    margin-top: 20px;
+}
+
+#icon{
+    width: 30px;
+    height: 30px;
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+h1{
+    margin-left: 20px;
+}
+
+
+li{
+    display: flex;
+    float: right;
+    margin-left: 35px;
+    margin-top: 10px;
+    text-decoration: none;
+}
+li a {
+    text-decoration: none;
+    color: rgb(128, 128, 119);
+}
+
+.box{
+    float: right;
+    margin-right: 100px;
+    margin-top: 20px;
+}
+
+.diver{
+    display: flex;
+    
+}
+
+.diver p{
+    margin-left: 20px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: orangered;
+}
+#orange{
+    color: orangered;
+}
+
+.box p{
+    color: rgb(128, 128, 119);
+    font-size: 20px;
+    line-height: 30px;
+}
+
+
+h5{
+    padding-bottom: none;
+    color: orangered;
+}
+h2{
+    margin: 0;
+    font-size: 50px;
+    padding: 0;
+}
+ .btn #add{
+    background-color: orangered;
+    border: none;
+    width: 200px;
+    height: 50px;
+    color: white;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+
+
+.btn1{
+    border: none;
+    color: orangered;
+    font-size: 20px;
+}
+
+.btn0{
+    font-size: 15px;
+    font-weight: bold;
+    border: none;
+}
+#cons{
+    width: 20px;
+    height: 20px;
+    margin-right: 50px;
+}
+
+.only{
+    margin-left: 220px;
+    margin-top: 45px;
+}
+
+
+img{
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;
+    
+}
+
+.down{
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+
+}
+
+.one{
+    float: right;
+    margin-right: 190px;
+}
+
+.one :hover{
+    border: 20px;
+}
+
+
+
